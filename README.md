@@ -1,5 +1,5 @@
 # Web-technologies-2
-***HTML, CSS, JavaScript, PHP***
+***Jazyky:HTML, CSS, JavaScript, PHP***
 
 **johncanvas** 
  - php skript na uloženie a následné zobrazenie podpisu ktorý užívateľ napíše na plátno
