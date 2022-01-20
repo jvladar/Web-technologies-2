@@ -25,5 +25,5 @@
 **vladar_z7**
  - práca s cookies. Podľa IP vyhľadať lokáciu užívateľa a rátať počty návštev a v akom lokalnom čase sa prihlásili na našu stránku. Zobrazenie vlajok, atd. 
  
-**vladar_z7**
+**vladar_zap**
  - ukážka nejakých ľahších útokov, Cross-Site Request Forgery a SQL injection
