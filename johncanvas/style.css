@@ -1,0 +1,9 @@
+canvas#obrazok {
+    border: 2px solid black;
+}
+form>* {
+    margin: 10px;
+}
+.hide {
+    display: none;
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    
+    <title>Document</title>
+</head>
+<body>
+<form action="submit.php" onsubmit="return onSubmit(this)" method="post">
+    <div>
+      <input name="nazov" placeholder="Názov obrázka" required />
+    </div>
+    <div>
+      <canvas id="obrazok" width="300" height="150"></canvas>
+    </div>
+
+    <!-- Zobrazenie Base64 zakodovaneho obrazka -->
+    <div class="hide" id="obrazok1">
+      <input name="obrazok" />
+    </div>
+
+    <button type="submit">Send</button>
+</form>
+
+<button onclick="cisticpotrubia()">Čistič</button>
+
+</body>
+<script src="script.js"></script>
+</html>
